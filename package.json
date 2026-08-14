@@ -1,0 +1,35 @@
+{
+  "name": "iln-nsk",
+  "version": "1.0.0",
+  "author": "Di@SA",
+  "description": "",
+  "keywords": [
+    "skills",
+    "ai"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "repository": {},
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "type": "module",
+  "bin": {
+    "impeccable": "cli/bin/cli.js"
+  },
+  "main": "./cli/engine/detect-antipatterns.mjs",
+  "exports": {
+  },
+  "files": [
+    "cli/",
+    "LICENSE"
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "optionalDependencies": {
+  },
+  "devDependencies": {
+  }
+}
