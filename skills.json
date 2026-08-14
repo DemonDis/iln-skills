@@ -1,0 +1,18 @@
+{
+  "name": "iln-skills",
+  "displayName": "ILN SKILLS",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Di@SA",
+  "license": "MIT",
+  "homepage": "https://github.com/DemonDis",
+  "repository": "https://github.com/DemonDis/iln-skills",
+  "keywords": [
+    "ai-skill"
+  ],
+  "platforms": [
+    "opencode",
+    "cline"
+  ],
+  "install": "npx iln-skills init --ai {{platform}}"
+}
