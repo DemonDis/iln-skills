@@ -1,7 +1,7 @@
 <h1 align="center">ILN SKILLS</h1>
 
 <p align="center">
-  <img src="assets/logo.png" alt="Iln Skills" width="350">
+  <img src="img/logo.png" alt="Iln Skills" width="350">
 </p>
 
 <p align="center">
